@@ -27,10 +27,10 @@ This project is a calculator that evaluates mathematical expressions consisting 
 4. Use the commands for additional functionality.
 
 ## Example
-1.
-  ```plaintext
-   Please enter a postfix expression ('q' to exit, 'h' for help): 3 4 +
-   Result: 7.0
+```
+Please enter a postfix expression ('q' to exit, 'h' for help): 3 + 4
+Result: 7.0
+```
 
 ## Version
  - Version: Release 1.0.0
